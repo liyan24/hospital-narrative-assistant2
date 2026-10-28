@@ -18,7 +18,9 @@ __pycache__/
 data/*.xlsx
 data/*.json
 data/*.txt
-
+paper/
+experiments/
+docs/
 # Frontend
 frontend/node_modules/
 frontend/dist/
